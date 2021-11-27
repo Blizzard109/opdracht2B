@@ -1,4 +1,4 @@
-package rs.week1.practicum2b;
+package Week2Collaboration.opdracht2B;
 
 public class voetbalClub {
     private int aantalGewonnen;
